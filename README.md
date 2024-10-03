@@ -12,7 +12,7 @@ and in good projects, thereby gaining a good professional experience.
 I graduated in 2017, but I was already in the IT market since 2015, when I started with the internship program,
 and ended being hired full time.
 
-This year I am going to 6th year of IT experience, and during this time I have been through different projects,
+This year I am going to 9th year of IT experience, and during this time I have been through different projects,
 involving different technologies, from front-end to back-end programming, as well as data and systems
 integration, to which I have specialized in the last 2 years, Creating API Soap and Rest using the tools IBM
 Integration Bus and Oracle SOA Suite (Jdeveloper and Eclipse). I have experience with ETL demands using tools
